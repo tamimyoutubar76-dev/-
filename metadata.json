@@ -1,0 +1,6 @@
+{
+  "name": "Chattogram Open World: Lalkhan Bazar",
+  "description": "1:1 real-world geographical 3D open-world life simulation of Lalkhan Bazar, Chattogram, Bangladesh with real OpenStreetMap roads, SRTM hill terrain, flyovers, mosques, shops, and live traffic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
